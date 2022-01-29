@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281284760551', '6281284760551'] // Letakan nomor kamu disini
+global.owner = ['6281284760551','6281284760551','6281327327914'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
@@ -24,7 +24,7 @@ global.APIs = { // API Prefix
   zeks: 'https://api.zeks.me',
 }
 global.APIKeys = { // APIKey nya disini
-  // 'https://website': 'apikey'
+  // 'https://api.zeks.me': 'Akirachan'
   'https://api-xcoders.xyz': 'APIKEY',
   'htttps://api.jawasoft.xyz': 'APIKEY',
   'https://api.sekha.tech': 'APIKEY',
